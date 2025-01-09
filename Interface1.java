@@ -1,10 +1,19 @@
+/*
+Author:- Geetam Dupare 
+Batch:- J-56
+Title:- Explain Interface write a program for Interface .
+
+*/
+
+
+
 /*interface 
->>interface 100% hinding implementation//or abstractions//
+ >interface 100% hinding implementation//or abstractions//
 >>(blueprints of class)
 >>method are by default abstract AND public in interface without  declare abstracts keyword//ont having constractor 
 >>tangible(object) and non-tangible(class,interface)
 >>standard naming?(pascal case)
-//access specifier:only public,defult,|private and default allow with body in interfaces java 9+ |protected not allowed| //java 8+
+//access specifier:only public|private and default allow with body in interfaces java 9+ |protected not allowed| //java 8+
 //method:-abstract keyword✅ | final(not allowed) | static (not allowed)(with body we can use but method converts into non-abstract //						allow from java 8+)
 // multiple implementations ✅ 
 //extended and implements both are work together ✅ 
